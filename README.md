@@ -1,0 +1,4 @@
+- Bài tập lớn môn Dữ liệu lớn trường Đại học Thăng Long
+- Thu thập dữ liệu thời tiết qua API
+- Xử lý, phân tích dữ liệu lớn bằng PySpark
+- Kiểm tra 5 giả thuyết đặt ra.
